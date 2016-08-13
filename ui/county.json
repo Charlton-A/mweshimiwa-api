@@ -1,0 +1,6 @@
+{
+  "Constituency":"{{@constituency}}",
+  "County":"{{@county}}",
+  "Status":"{{@status}}",
+  "Message":"{{@message}}"
+}

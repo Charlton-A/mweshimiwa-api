@@ -1,0 +1,1394 @@
+{
+    "1": {
+        "Number": "1",
+        "Name": "Ababu  Pius Namwamba",
+        "County": "Busia",
+        "Constituency": "Budalangi",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "2": {
+        "Number": "2",
+        "Name": "Abass Ahmed Ibrahim",
+        "County": "Garissa",
+        "Constituency": "Ijara",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "3": {
+        "Number": "3",
+        "Name": "Abdalla Amina",
+        "County": "N/A",
+        "Constituency": "N/A",
+        "Party": "The National Alliance",
+        "Status": "Nominated"
+    },
+    "4": {
+        "Number": "4",
+        "Name": "Abdi Yusuf Hassan",
+        "County": "Nairobi",
+        "Constituency": "Kamukunji",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "5": {
+        "Number": "5",
+        "Name": "Abongotum  Kamama Asman",
+        "County": "Baringo",
+        "Constituency": "Tiaty",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "6": {
+        "Number": "6",
+        "Name": "Aburi Lawrence Mpuru",
+        "County": "Meru",
+        "Constituency": "Tigania East",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "7": {
+        "Number": "7",
+        "Name": "Aden Abdikadir Omar",
+        "County": "Garissa",
+        "Constituency": "Balambala",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "8": {
+        "Number": "8",
+        "Name": "Ahmed Abdikadir Ore",
+        "County": "Wajir",
+        "Constituency": "Wajir West",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "9": {
+        "Number": "9",
+        "Name": "Ahmed Shakeel Shabbir A.",
+        "County": "Kisumu",
+        "Constituency": "Kisumu East",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "10": {
+        "Number": "10",
+        "Name": "Akujah Protus Ewesit",
+        "County": "Turkana",
+        "Constituency": "Loima",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "11": {
+        "Number": "11",
+        "Name": "Ali Abdi Noor Mohammed",
+        "County": "N/A",
+        "Constituency": "N/A",
+        "Party": "United Republican Party",
+        "Status": "Nominated"
+    },
+    "12": {
+        "Number": "12",
+        "Name": "Ali Fatuma Ibrahim",
+        "County": "Wajir",
+        "Constituency": "Wajir North",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "13": {
+        "Number": "13",
+        "Name": "Ali Shariff Athman",
+        "County": "Lamu",
+        "Constituency": "Lamu East",
+        "Party": "United Democratic Forum Party",
+        "Status": "Elected"
+    },
+    "14": {
+        "Number": "14",
+        "Name": "Ali Tiyah Galgalo",
+        "County": "Isiolo",
+        "Constituency": "Isiolo North",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "15": {
+        "Number": "15",
+        "Name": "Aluoch John Olago",
+        "County": "Kisumu",
+        "Constituency": "Kisumu West",
+        "Party": "Forum For Restoration Of Democracy-Kenya",
+        "Status": "Elected"
+    },
+    "16": {
+        "Number": "16",
+        "Name": "Amolo Rachel Ameso",
+        "County": "Kakamega",
+        "Constituency": "Lugari",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "17": {
+        "Number": "17",
+        "Name": "Anami Lisamula Silverse",
+        "County": "Kakamega",
+        "Constituency": "Shinyalu",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "18": {
+        "Number": "18",
+        "Name": "Andayi Benjamin A.",
+        "County": "Kakamega",
+        "Constituency": "Khwisero",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "19": {
+        "Number": "19",
+        "Name": "Angatia Ayub Savula",
+        "County": "Kakamega",
+        "Constituency": "Lugari",
+        "Party": "United Democratic Forum Party",
+        "Status": "Elected"
+    },
+    "20": {
+        "Number": "20",
+        "Name": "Angwenyi Jimmy Nuru Ondieki",
+        "County": "Kisii",
+        "Constituency": "Bonchari",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "21": {
+        "Number": "21",
+        "Name": "Anyanga Andrew Toboso",
+        "County": "Kakamega",
+        "Constituency": "Butere",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "22": {
+        "Number": "22",
+        "Name": "Anyanga Peter Edick Omondi",
+        "County": "Migori",
+        "Constituency": "Nyatike",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "23": {
+        "Number": "23",
+        "Name": "Anyango  Dalmas Otieno",
+        "County": "Migori",
+        "Constituency": "Rongo",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "24": {
+        "Number": "24",
+        "Name": "Arama Samuel",
+        "County": "Nakuru",
+        "Constituency": "Nakuru Town West",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "25": {
+        "Number": "25",
+        "Name": "Aramat Lemanken",
+        "County": "Narok",
+        "Constituency": "Kilgoris",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "26": {
+        "Number": "26",
+        "Name": "Bady Bady Twalib",
+        "County": "Mombasa",
+        "Constituency": "Jomvu",
+        "Party": "Wiper Democratic Movement-Kenya",
+        "Status": "Elected"
+    },
+    "27": {
+        "Number": "27",
+        "Name": "Baiya Peter Njoroge",
+        "County": "Kiambu",
+        "Constituency": "Githunguri",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "28": {
+        "Number": "28",
+        "Name": "Banticha Abdullahi Jaldesa",
+        "County": "Isiolo",
+        "Constituency": "Isiolo South",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "29": {
+        "Number": "29",
+        "Name": "Barchilei Edwin Kipruto",
+        "County": "Uasin_Gishu",
+        "Constituency": "Eldoret East",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "30": {
+        "Number": "30",
+        "Name": "Barua Ejidius Njogu",
+        "County": "Kirinyaga",
+        "Constituency": "Gichugu",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "31": {
+        "Number": "31",
+        "Name": "Bedzimba Rashid Juma",
+        "County": "Mombasa",
+        "Constituency": "Kisauni",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "32": {
+        "Number": "32",
+        "Name": "Bett Benard Kipkirui",
+        "County": "N/A",
+        "Constituency": "N/A",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "33": {
+        "Number": "33",
+        "Name": "Bett James Kimaru",
+        "County": "Uasin_Gishu",
+        "Constituency": "Eldoret East",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "34": {
+        "Number": "34",
+        "Name": "Bii Paul Kipchirchir",
+        "County": "N/A",
+        "Constituency": "N/A",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "35": {
+        "Number": "35",
+        "Name": "Birdi Sunjeev Kour",
+        "County": "N/A",
+        "Constituency": "N/A",
+        "Party": "United Republican Party",
+        "Status": "Nominated"
+    },
+    "36": {
+        "Number": "36",
+        "Name": "Bitok Kirwa Stephen",
+        "County": "Nandi",
+        "Constituency": "Mosop",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "37": {
+        "Number": "37",
+        "Name": "Bollo Hezron Awiti",
+        "County": "Mombasa",
+        "Constituency": "Nyali",
+        "Party": "Wiper Democratic Movement-Kenya",
+        "Status": "Elected"
+    },
+    "38": {
+        "Number": "38",
+        "Name": "Bosire Timothy Moseti . E",
+        "County": "Nyamira",
+        "Constituency": "Kitutu Masaba",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "39": {
+        "Number": "39",
+        "Name": "Bowen David Kangongo",
+        "County": "Elgeyo_Marakwet",
+        "Constituency": "Marakwet East",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "40": {
+        "Number": "40",
+        "Name": "Bunyasi Sakwa John",
+        "County": "Busia",
+        "Constituency": "Nambale",
+        "Party": "United Democratic Forum Party",
+        "Status": "Elected"
+    },
+    "41": {
+        "Number": "41",
+        "Name": "Busienei Elisha Kipkorir",
+        "County": "Uasin_Gishu",
+        "Constituency": "Eldoret East",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "42": {
+        "Number": "42",
+        "Name": "Chae Alice Nyanchoka",
+        "County": "Nyamira",
+        "Constituency": "Kitutu Masaba",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "43": {
+        "Number": "43",
+        "Name": "Changorok  Regina Nyeris",
+        "County": "West_Pokot",
+        "Constituency": "Kapenguri",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "44": {
+        "Number": "44",
+        "Name": "Chanzu Yusuf Kifuma",
+        "County": "Vihiga",
+        "Constituency": "Vihiga",
+        "Party": "United Democratic Forum Party",
+        "Status": "Elected"
+    },
+    "45": {
+        "Number": "45",
+        "Name": "Chea Mwinga Gunga",
+        "County": "Kilifi",
+        "Constituency": "Kaloleni",
+        "Party": "Kenya African Democratic Union-Asili",
+        "Status": "Elected"
+    },
+    "46": {
+        "Number": "46",
+        "Name": "Chebet Susan Kipketer",
+        "County": "Elgeyo_Marakwet",
+        "Constituency": "Marakwet East",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "47": {
+        "Number": "47",
+        "Name": "Cheboi Moses Kipkemboi",
+        "County": "Nakuru",
+        "Constituency": "Kuresoi North",
+        "Party": "Kenya African National Union",
+        "Status": "Elected"
+    },
+    "48": {
+        "Number": "48",
+        "Name": "Chege John Kiragu",
+        "County": "Kiambu",
+        "Constituency": "Limuru",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "49": {
+        "Number": "49",
+        "Name": "Chege John Njoroge",
+        "County": "Nairobi",
+        "Constituency": "Kasarani",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "50": {
+        "Number": "50",
+        "Name": "Chege Sabina Wanjiru",
+        "County": "Muranga",
+        "Constituency": "Kangema",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "51": {
+        "Number": "51",
+        "Name": "Chepkong`A Samuel Kiprono",
+        "County": "Uasin_Gishu",
+        "Constituency": "Eldoret East",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "52": {
+        "Number": "52",
+        "Name": "Chepkwony Hellen Chelangat",
+        "County": "Kericho",
+        "Constituency": "Ainamoi",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "53": {
+        "Number": "53",
+        "Name": "Cheptumo William Kipkiror",
+        "County": "Baringo",
+        "Constituency": "Baringo North",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "54": {
+        "Number": "54",
+        "Name": "Cheruiyot  Zakayo Kipkemoi",
+        "County": "Nakuru",
+        "Constituency": "Kuresoi South",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "55": {
+        "Number": "55",
+        "Name": "Chidzuga Zainab Kalekye",
+        "County": "Kwale",
+        "Constituency": "Msambweni",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "56": {
+        "Number": "56",
+        "Name": "Chumel Samuel Moroto",
+        "County": "West_Pokot",
+        "Constituency": "Kapenguri",
+        "Party": "Kenya African National Union",
+        "Status": "Elected"
+    },
+    "57": {
+        "Number": "57",
+        "Name": "Dawood Abdul Rahim",
+        "County": "Meru",
+        "Constituency": "North Imenti",
+        "Party": "Alliance Party Of Kenya",
+        "Status": "Elected"
+    },
+    "58": {
+        "Number": "58",
+        "Name": "Dido Ali Rasso",
+        "County": "Marsabit",
+        "Constituency": "Saku",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "59": {
+        "Number": "59",
+        "Name": "Duale Aden Bare",
+        "County": "Garissa",
+        "Constituency": "Tavedujis",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "60": {
+        "Number": "60",
+        "Name": "Duale Mohamed Dahir",
+        "County": "Garissa",
+        "Constituency": "Dadaab",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "61": {
+        "Number": "61",
+        "Name": "Duba Roba Sharu",
+        "County": "Marsabit",
+        "Constituency": "Moyale",
+        "Party": "United Democratic Forum Party",
+        "Status": "Elected"
+    },
+    "62": {
+        "Number": "62",
+        "Name": "Dukicha Hassan Abdi",
+        "County": "Tana_River",
+        "Constituency": "Galole",
+        "Party": "United Democratic Forum Party",
+        "Status": "Elected"
+    },
+    "63": {
+        "Number": "63",
+        "Name": "Duri Halima Ware",
+        "County": "Tana_River",
+        "Constituency": "Garsen",
+        "Party": "Wiper Democratic Movement-Kenya",
+        "Status": "Elected"
+    },
+    "64": {
+        "Number": "64",
+        "Name": "Ekomwa James Lomenen",
+        "County": "Turkana",
+        "Constituency": "Turkana South",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "65": {
+        "Number": "65",
+        "Name": "Elmi Mohamed Ibrahim",
+        "County": "Wajir",
+        "Constituency": "Tarbaj",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "66": {
+        "Number": "66",
+        "Name": "Emanikor Joyce Akai",
+        "County": "Turkana",
+        "Constituency": "Turkana North",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "67": {
+        "Number": "67",
+        "Name": "Farah Abdulaziz Ali",
+        "County": "Mandera",
+        "Constituency": "Mandera East",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "68": {
+        "Number": "68",
+        "Name": "Fathia Mahbub",
+        "County": "Mandera",
+        "Constituency": "Mandera West",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "69": {
+        "Number": "69",
+        "Name": "Francis Kajwang' Tom Joseph",
+        "County": "Nairobi",
+        "Constituency": "Ruaraka",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "70": {
+        "Number": "70",
+        "Name": "G. J. Mati Munuve",
+        "County": "Kitui",
+        "Constituency": "Mwingi North",
+        "Party": "Wiper Democratic Movement-Kenya",
+        "Status": "Elected"
+    },
+    "71": {
+        "Number": "71",
+        "Name": "Gaicuhie Nelson Ributhi",
+        "County": "Nakuru",
+        "Constituency": "Subukia",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "72": {
+        "Number": "72",
+        "Name": "Gakuya James Mwangi",
+        "County": "Nairobi",
+        "Constituency": "Westlands",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "73": {
+        "Number": "73",
+        "Name": "Ganya Francis Chachu",
+        "County": "Marsabit",
+        "Constituency": "North Horr",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "74": {
+        "Number": "74",
+        "Name": "Gathecha Annah Nyokabi",
+        "County": "Kiambu",
+        "Constituency": "Gatundu South",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "75": {
+        "Number": "75",
+        "Name": "Gathogo Esther Nyambura",
+        "County": "Kiambu",
+        "Constituency": "Ruiru",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "76": {
+        "Number": "76",
+        "Name": "Geni Charles Mongare",
+        "County": "Nyamira",
+        "Constituency": "North Mugirango",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "77": {
+        "Number": "77",
+        "Name": "Gethenji James Ndungu",
+        "County": "Nyeri",
+        "Constituency": "Tetu",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "78": {
+        "Number": "78",
+        "Name": "Ghati Dennitah",
+        "County": "Migori",
+        "Constituency": "Rongo",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "79": {
+        "Number": "79",
+        "Name": "Gichigi Samuel Kamunye",
+        "County": "Nyandarua",
+        "Constituency": "Kipipiri",
+        "Party": "Alliance Party Of Kenya",
+        "Status": "Elected"
+    },
+    "80": {
+        "Number": "80",
+        "Name": "Gikaria David",
+        "County": "Nakuru",
+        "Constituency": "Nakuru Town East",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "81": {
+        "Number": "81",
+        "Name": "Gimose Charles Gumini",
+        "County": "Vihiga",
+        "Constituency": "Hamisi",
+        "Party": "Federal Party Of Kenya",
+        "Status": "Elected"
+    },
+    "82": {
+        "Number": "82",
+        "Name": "Gitari Joseph Gachoki",
+        "County": "Kirinyaga",
+        "Constituency": "Kirinyaga Central",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "83": {
+        "Number": "83",
+        "Name": "Gitau Peter Njuguna",
+        "County": "Kirinyaga",
+        "Constituency": "Mwea",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "84": {
+        "Number": "84",
+        "Name": "Gumbo  Nicolas O.",
+        "County": "Siaya",
+        "Constituency": "Rarieda",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "85": {
+        "Number": "85",
+        "Name": "Gure Shukra Hussein",
+        "County": "Garissa",
+        "Constituency": "Tavedujis",
+        "Party": "Wiper Democratic Movement-Kenya",
+        "Status": "Elected"
+    },
+    "86": {
+        "Number": "86",
+        "Name": "Huka Mohamed Adan",
+        "County": "Mandera",
+        "Constituency": "Mandera West",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "87": {
+        "Number": "87",
+        "Name": "Ibren Nasra Ibrahim",
+        "County": "Marsabit",
+        "Constituency": "Moyale",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "88": {
+        "Number": "88",
+        "Name": "Ichung'Wah Anthony Kimani",
+        "County": "Kiambu",
+        "Constituency": "Kikuyu",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "89": {
+        "Number": "89",
+        "Name": "Injendi Moses Malulu",
+        "County": "Kakamega",
+        "Constituency": "Malava",
+        "Party": "Maendeleo Democratic Party",
+        "Status": "Elected"
+    },
+    "90": {
+        "Number": "90",
+        "Name": "Irea Gideon Mwiti",
+        "County": "Meru",
+        "Constituency": "Central Imenti",
+        "Party": "Alliance Party Of Kenya",
+        "Status": "Elected"
+    },
+    "91": {
+        "Number": "91",
+        "Name": "Iringo Cyprian Kubai",
+        "County": "Meru",
+        "Constituency": "Igembe Central",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "92": {
+        "Number": "92",
+        "Name": "Isaack Shaaban Ali",
+        "County": "Mandera",
+        "Constituency": "Lafey",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "93": {
+        "Number": "93",
+        "Name": "Juma Zulekha Hassan",
+        "County": "N/A",
+        "Constituency": "N/A",
+        "Party": "Orange Democratic Movement",
+        "Status": "Nominated"
+    },
+    "94": {
+        "Number": "94",
+        "Name": "K K Stephen Kinyanjui Mburu",
+        "County": "Nyandarua",
+        "Constituency": "Kinangop",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "95": {
+        "Number": "95",
+        "Name": "Kabando Kabando Wa",
+        "County": "Nyeri",
+        "Constituency": "Tetu",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "96": {
+        "Number": "96",
+        "Name": "Kahangara Joseph Mburu",
+        "County": "Kiambu",
+        "Constituency": "Lari",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "97": {
+        "Number": "97",
+        "Name": "Kajuju Florence",
+        "County": "Meru",
+        "Constituency": "Igembe South",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "98": {
+        "Number": "98",
+        "Name": "Kaluma George Peter Opondo",
+        "County": "Homabay",
+        "Constituency": "Homabay Town",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "99": {
+        "Number": "99",
+        "Name": "Kamanda William Maina",
+        "County": "Nairobi",
+        "Constituency": "Starehe",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "100": {
+        "Number": "100",
+        "Name": "Kamau Jamleck Irungu",
+        "County": "Muranga",
+        "Constituency": "Kigumo",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "101": {
+        "Number": "101",
+        "Name": "Kang'Ata Irungu",
+        "County": "Muranga",
+        "Constituency": "Kiharu",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "102": {
+        "Number": "102",
+        "Name": "Kangara Benson Mutura",
+        "County": "Nairobi",
+        "Constituency": "Makadara",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "103": {
+        "Number": "103",
+        "Name": "Kanini Kega James Mathenge",
+        "County": "Nyeri",
+        "Constituency": "Kieni",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "104": {
+        "Number": "104",
+        "Name": "Kanyua Priscilla Nyokabi",
+        "County": "Nyeri",
+        "Constituency": "Tetu",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "105": {
+        "Number": "105",
+        "Name": "Karani Stephen Wachira",
+        "County": "Laikipia",
+        "Constituency": "Laikipia West",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "106": {
+        "Number": "106",
+        "Name": "Karithi David",
+        "County": "Meru",
+        "Constituency": "Tigania West",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "107": {
+        "Number": "107",
+        "Name": "Kariuki John Ndirangu",
+        "County": "Nairobi",
+        "Constituency": "Westlands",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "108": {
+        "Number": "108",
+        "Name": "Kariuki Julius Ndegwa",
+        "County": "Lamu",
+        "Constituency": "Lamu West",
+        "Party": "Kenya National Congress",
+        "Status": "Elected"
+    },
+    "109": {
+        "Number": "109",
+        "Name": "Kasuti Suleiman Murunga",
+        "County": "Bungoma",
+        "Constituency": "Kimilili",
+        "Party": "Forum For Restoration Of Democracy-Kenya",
+        "Status": "Elected"
+    },
+    "110": {
+        "Number": "110",
+        "Name": "Katana Aisha Jumwa",
+        "County": "Kilifi",
+        "Constituency": "Kilifi North",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "111": {
+        "Number": "111",
+        "Name": "Katatha Maweu Kyengo",
+        "County": "Machakos",
+        "Constituency": "Kangundo",
+        "Party": "The Independent Party",
+        "Status": "Elected"
+    },
+    "112": {
+        "Number": "112",
+        "Name": "Katoo Metito Judah",
+        "County": "Kajiado",
+        "Constituency": "Kajiado South",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "113": {
+        "Number": "113",
+        "Name": "Kedogo Dorcas Luvalitsa",
+        "County": "Vihiga",
+        "Constituency": "Vihiga",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "114": {
+        "Number": "114",
+        "Name": "Kemei Justice Kipsang",
+        "County": "Kericho",
+        "Constituency": "Ainamoi",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "115": {
+        "Number": "115",
+        "Name": "Kenta Richard Moitalel Ole",
+        "County": "Narok",
+        "Constituency": "Narok North",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "116": {
+        "Number": "116",
+        "Name": "Keraa Mary Sally",
+        "County": "Kisii",
+        "Constituency": "Bonchari",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "117": {
+        "Number": "117",
+        "Name": "Kering Zipporah Jesang Kurgat",
+        "County": "Nandi",
+        "Constituency": "Tinderet",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "118": {
+        "Number": "118",
+        "Name": "Keter Eric Arap",
+        "County": "Kericho",
+        "Constituency": "Belgut",
+        "Party": "Kenya African National Union",
+        "Status": "Elected"
+    },
+    "119": {
+        "Number": "119",
+        "Name": "Khamisi Mishi Juma",
+        "County": "Mombasa",
+        "Constituency": "Changamwe",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "120": {
+        "Number": "120",
+        "Name": "Kiaraho David Njunguna",
+        "County": "Nyandarua",
+        "Constituency": "Ol-Kalou",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "121": {
+        "Number": "121",
+        "Name": "Kibunguchy Enoch Wamalwa",
+        "County": "Kakamega",
+        "Constituency": "Likuyani",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "122": {
+        "Number": "122",
+        "Name": "Kihagi John Karanja",
+        "County": "Nakuru",
+        "Constituency": "Naivasha",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "123": {
+        "Number": "123",
+        "Name": "Kilonzo Francis Mwangangi",
+        "County": "Machakos",
+        "Constituency": "Yatta",
+        "Party": "Muungano Party",
+        "Status": "Elected"
+    },
+    "124": {
+        "Number": "124",
+        "Name": "Kimaru Anthony Mutahi",
+        "County": "Laikipia",
+        "Constituency": "Laikipia East",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "125": {
+        "Number": "125",
+        "Name": "King'Ola Patrick Makau",
+        "County": "Machakos",
+        "Constituency": "Mavoko",
+        "Party": "Wiper Democratic Movement-Kenya",
+        "Status": "Elected"
+    },
+    "126": {
+        "Number": "126",
+        "Name": "Kinoti Boniface Gatobu",
+        "County": "Meru",
+        "Constituency": "Buuri",
+        "Party": "Independent Candidate",
+        "Status": "Elected"
+    },
+    "127": {
+        "Number": "127",
+        "Name": "Kinyua Peter Weru",
+        "County": "Nyeri",
+        "Constituency": "Mathira",
+        "Party": "National Rainbow Coalition",
+        "Status": "Elected"
+    },
+    "128": {
+        "Number": "128",
+        "Name": "Kipchoim Grace Jelagat",
+        "County": "Baringo",
+        "Constituency": "Baringo South",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "129": {
+        "Number": "129",
+        "Name": "Kiptanui Jackson Kiplagat",
+        "County": "Elgeyo_Marakwet",
+        "Constituency": "Keiyo South",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "130": {
+        "Number": "130",
+        "Name": "Kiptui Grace Jemutai",
+        "County": "Baringo",
+        "Constituency": "",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "131": {
+        "Number": "131",
+        "Name": "Kipyegon Johana Ngeno",
+        "County": "Narok",
+        "Constituency": "Emurua Dikirr",
+        "Party": "Kenya National Congress",
+        "Status": "Elected"
+    },
+    "132": {
+        "Number": "132",
+        "Name": "Kisang William Kipkemoi",
+        "County": "Elgeyo_Marakwet",
+        "Constituency": "Marakwet West",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "133": {
+        "Number": "133",
+        "Name": "Kisoi Michael Manthi",
+        "County": "Makueni",
+        "Constituency": "Mbooni",
+        "Party": "Wiper Democratic Movement-Kenya",
+        "Status": "Elected"
+    },
+    "134": {
+        "Number": "134",
+        "Name": "Kitungi Bernard Munywoki",
+        "County": "Kitui",
+        "Constituency": "Mwingi North",
+        "Party": "Wiper Democratic Movement-Kenya",
+        "Status": "Elected"
+    },
+    "135": {
+        "Number": "135",
+        "Name": "Kobado  John Owuor Onyango",
+        "County": "Migori",
+        "Constituency": "Uriri",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "136": {
+        "Number": "136",
+        "Name": "Koech Sammy Cheruiyot",
+        "County": "N/A",
+        "Constituency": "N/A",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "137": {
+        "Number": "137",
+        "Name": "Koinange Paul",
+        "County": "Kiambu",
+        "Constituency": "Kiambaa",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "138": {
+        "Number": "138",
+        "Name": "Kombe Harrison Garama",
+        "County": "Kilifi",
+        "Constituency": "Magarini",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "139": {
+        "Number": "139",
+        "Name": "Konchella Gideon Sitelu",
+        "County": "Narok",
+        "Constituency": "Kilgoris",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "140": {
+        "Number": "140",
+        "Name": "Korir Wesley Kipchumba",
+        "County": "Trans_Nzoia",
+        "Constituency": "Cherenganyi",
+        "Party": "Independent Candidate",
+        "Status": "Elected"
+    },
+    "141": {
+        "Number": "141",
+        "Name": "Kosgey Alexander Kimutai Kigen Kosgey",
+        "County": "Nandi",
+        "Constituency": "Emgwen",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "142": {
+        "Number": "142",
+        "Name": "Koyi John Waluke",
+        "County": "Bungoma",
+        "Constituency": "Sirisia",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "143": {
+        "Number": "143",
+        "Name": "Laboso Joyce Cherono Abonyo",
+        "County": "N/A",
+        "Constituency": "N/A",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "144": {
+        "Number": "144",
+        "Name": "Lagat Elijah Kiptarbei",
+        "County": "Nandi",
+        "Constituency": "Tinderet",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "145": {
+        "Number": "145",
+        "Name": "Lati Jonathan Lelelit",
+        "County": "Samburu",
+        "Constituency": "Samburu West",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "146": {
+        "Number": "146",
+        "Name": "Lay Joyce Wanjalah",
+        "County": "Taita_Taveta",
+        "Constituency": "Taveta",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "147": {
+        "Number": "147",
+        "Name": "Lekuton Joseph",
+        "County": "Marsabit",
+        "Constituency": "Laisamis",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "148": {
+        "Number": "148",
+        "Name": "Lemein Korei Ole",
+        "County": "Narok",
+        "Constituency": "Kilgoris",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "149": {
+        "Number": "149",
+        "Name": "Lempurkel Mathew Lekidime",
+        "County": "Laikipia",
+        "Constituency": "Laikipia North",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "150": {
+        "Number": "150",
+        "Name": "Lentoimaga Alois Musa",
+        "County": "Samburu",
+        "Constituency": "Samburu North",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "151": {
+        "Number": "151",
+        "Name": "Leshoomo Maison",
+        "County": "Samburu",
+        "Constituency": "Samburu West",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "152": {
+        "Number": "152",
+        "Name": "Lessonet Moses K",
+        "County": "Baringo",
+        "Constituency": "Eldama Ravine",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "153": {
+        "Number": "153",
+        "Name": "Letimalo Raphael Lakalei",
+        "County": "Samburu",
+        "Constituency": "Samburu East",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "154": {
+        "Number": "154",
+        "Name": "Limo Kirui Joseph",
+        "County": "Kericho",
+        "Constituency": "Ainamoi",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "155": {
+        "Number": "155",
+        "Name": "Linturi Franklin Mithika",
+        "County": "Meru",
+        "Constituency": "Igembe South",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "156": {
+        "Number": "156",
+        "Name": "Lomunokol Mark",
+        "County": "West_Pokot",
+        "Constituency": "Kacheliba",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "157": {
+        "Number": "157",
+        "Name": "Lomwa Joseph Samal",
+        "County": "Isiolo",
+        "Constituency": "Isiolo North",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "158": {
+        "Number": "158",
+        "Name": "Losiakou David Pkosing",
+        "County": "West_Pokot",
+        "Constituency": "Pokot South",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "159": {
+        "Number": "159",
+        "Name": "M'Uthari Joseph M'Eruaki",
+        "County": "Meru",
+        "Constituency": "Igembe North",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "160": {
+        "Number": "160",
+        "Name": "Maanzo Daniel Kitonga",
+        "County": "Makueni",
+        "Constituency": "Makueni",
+        "Party": "Wiper Democratic Movement-Kenya",
+        "Status": "Elected"
+    },
+    "161": {
+        "Number": "161",
+        "Name": "Macharia Jacob Waweru",
+        "County": "Nakuru",
+        "Constituency": "Molo",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "162": {
+        "Number": "162",
+        "Name": "Machira Jane Agnes Wanjira",
+        "County": "Laikipia",
+        "Constituency": "Laikipia East",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "163": {
+        "Number": "163",
+        "Name": "Magwanga Joseph O.",
+        "County": "Homabay",
+        "Constituency": "Kasipul",
+        "Party": "Orange Democratic Movement",
+        "Status": "Elected"
+    },
+    "164": {
+        "Number": "164",
+        "Name": "Mahamud Mohamed Maalim",
+        "County": "Mandera",
+        "Constituency": "Mandera West",
+        "Party": "United Republican Party",
+        "Status": "Elected"
+    },
+    "165": {
+        "Number": "165",
+        "Name": "Makenga Richard Katemi",
+        "County": "Makueni",
+        "Constituency": "Kaiti",
+        "Party": "Wiper Democratic Movement-Kenya",
+        "Status": "Elected"
+    },
+    "166": {
+        "Number": "166",
+        "Name": "Manga Shadrack Roger Mwita",
+        "County": "Migori",
+        "Constituency": "Kuria East",
+        "Party": "Kenya African National Union",
+        "Status": "Elected"
+    },
+    "167": {
+        "Number": "167",
+        "Name": "Manje Joseph Wathigo",
+        "County": "Kajiado",
+        "Constituency": "Kajiado North",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "168": {
+        "Number": "168",
+        "Name": "Manoti Stephen Kengere",
+        "County": "Kisii",
+        "Constituency": "Bobasi",
+        "Party": "Ford-People",
+        "Status": "Elected"
+    },
+    "169": {
+        "Number": "169",
+        "Name": "Masadia Alfred Agoi",
+        "County": "Vihiga",
+        "Constituency": "Sabatia",
+        "Party": "United Democratic Forum Party",
+        "Status": "Elected"
+    },
+    "170": {
+        "Number": "170",
+        "Name": "Mathenge Esther Murugi",
+        "County": "Nyeri",
+        "Constituency": "Nyeri Town",
+        "Party": "The National Alliance",
+        "Status": "Elected"
+    },
+    "171": {
+        "Number": "171",
+        "Name": "Mbai Benson Itwiku",
+        "County": "Machakos",
+        "Constituency": "Masinga",
+        "Party": "Ford-People",
+        "Status": "Elected"
+    },
+    "172": {
+        "Number": "172",
+        "Name": "Mbalu Jessica Nduku Kiko",
+        "County": "Makueni",
+        "Constituency": "Kibwezi East",
+        "Party": "Wiper Democratic Movement-Kenya",
+        "Status": "Elected"
+    },
+    "173": {
+        "Number": "173",
+        "Name": "Muluvi  Mutua Marcus",
+        "County": "Kitui",
+        "Constituency": "Kitui EAST",
+        "Party": "Wiper Democratic Party Of Kenya",
+        "Status": "Elected"
+    },
+    "174": {
+        "Number": "174",
+        "Name": "Tongi Richard Nyagaka",
+        "County": "Kisii",
+        "Constituency": "Nyaribari Chache",
+        "Party": "Jubilee",
+        "Status": "Elected"
+    }
+}

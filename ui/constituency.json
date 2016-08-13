@@ -1,0 +1,6 @@
+{
+  "Constituency":"{{@constituency}}",
+  "Name":"{{@name}}",
+  "Status":"{{@status}}",
+  "Message":"{{@message}}"
+}

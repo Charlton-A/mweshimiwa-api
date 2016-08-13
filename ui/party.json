@@ -1,0 +1,6 @@
+{
+  "Constituency":"{{@constituency}}",
+  "Party":"{{@party}}",
+  "Status":"{{@status}}",
+  "Message":"{{@message}}"
+}
