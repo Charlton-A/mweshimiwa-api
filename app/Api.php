@@ -4,11 +4,16 @@ include_once('Connection.php');
 
 class Api {
 
-  function get_member($main){
+  function cleanParameter($parameter){
+    str_replace("+","",$parameter);
+    $parameter=strtolower($parameter);
+    $parameter=ucwords($parameter);
+    return $parameter;
+  }
+
+  function getMember($main){
     $c_name=$main->get('PARAMS.name');
-    str_replace("+","",c_name);
-    $c_name=strtolower($c_name);
-    $c_name=ucwords($c_name);
+    $c_name=self::cleanParameter($c_name);
     $main->set('table',new \DB\Jig\Mapper($main->get('jdb'), 'data.json'));
     $main->get('table')->load(['@Constituency=?',$c_name]);
 
@@ -27,14 +32,13 @@ class Api {
     $main->set('message','Representative of the constituency found');
     echo \Template::instance()->render('constituency.json','application/json');
   }
+  $main->clear('table');
   }
 
 
-  function get_county($main){
+  function getCounty($main){
     $c_name=$main->get('PARAMS.name');
-    str_replace("+","",c_name);
-    $c_name=strtolower($c_name);
-    $c_name=ucwords($c_name);
+    $c_name=self::cleanParameter($c_name);
     $main->set('table',new \DB\Jig\Mapper($main->get('jdb'), 'data.json'));
     $main->get('table')->load(['@Constituency=?',$c_name]);
 
@@ -53,13 +57,12 @@ class Api {
     $main->set('message','County of the constituency found');
     echo \Template::instance()->render('county.json','application/json');
   }
+  $main->clear('table');
   }
 
-  function get_party($main){
+  function getParty($main){
     $c_name=$main->get('PARAMS.name');
-    str_replace("+","",c_name);
-    $c_name=strtolower($c_name);
-    $c_name=ucwords($c_name);
+    $c_name=self::cleanParameter($c_name);
     $main->set('table',new \DB\Jig\Mapper($main->get('jdb'), 'data.json'));
     $main->get('table')->load(['@Constituency=?',$c_name]);
 
@@ -79,12 +82,21 @@ class Api {
     $main->set('message','Party of the represtative of constituency found');
     echo \Template::instance()->render('party.json','application/json');
   }
+  	$main->clear('table');
   }
 
-  function get_count_county($main){
-
-    
+  function getCountCounty($main){
+    $c_name=$main->get('PARAMS.name');
+    $c_name=self::cleanParameter($c_name);
+    $main->set('table',new \DB\Jig\Mapper($main->get('jdb'), 'data.json'));
+    $main->get('table')->find(array('(isset(@County) && preg_match(?,@County))','/Kisumu/'));
+    $main->get('table')->copyTo('POST');
+    var_dump($main->get('POST'));
   }
+
+
+
+
 
 
 
