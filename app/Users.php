@@ -12,7 +12,7 @@ class Users {
 	{
 		echo \Template::instance()->render('about.html');
 	}
-	 // Render Contacts Page
+	 // Render Usage Page
 	function usage($main)
 	{
 		echo \Template::instance()->render('usage.html');
