@@ -1,5 +1,4 @@
 composer.phar
-lib/
-ui/dist/
-assets/
-tmp/
+app/lib/
+app/ui/dist/
+app/tmp/
