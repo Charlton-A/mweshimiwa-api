@@ -1,6 +1,6 @@
 Mweshimiwa-api: Simple Unoffcial Kenya Parlianment API
 ================================================================
-.. image:: https://raw.githubusercontent.com/Charlton-A/mweshimiwa-api/master/mweshimiwa.png
+.. image:: https://raw.githubusercontent.com/Charlton-A/mweshimiwa-api/master/mweshmiwa.png
         :alt: sample web interface
         :width: 500
         :align: center
