@@ -1,4 +1,4 @@
-Mweshimiwa-api: Simple Unoffcial Kenya Parlianment API
+Mweshimiwa-api: Simple Unoffcial  API
 ================================================================
 .. image:: https://raw.githubusercontent.com/Charlton-A/mweshimiwa-api/master/mweshmiwa.png
         :alt: sample web interface
@@ -7,9 +7,13 @@ Mweshimiwa-api: Simple Unoffcial Kenya Parlianment API
 
 Introduction
 ------------
-An API built using `Fat-Free`_ Framework.
+An API built using `Fat-Free`_ Framework.It queries the Kenyan parlianment
+based on constituency name.
 
-Url for the API is `link`_
+It queries Reprentative name,Party of the respresntative and the County based
+on constituency. 
+
+Project link is `link`_
 
 Requirements
 ------------
