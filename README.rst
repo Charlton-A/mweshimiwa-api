@@ -1,4 +1,4 @@
-mweshimiwa-api: A Simple API to query Kenya parlianment details
+Mweshimiwa-api: Simple Unoffcial Kenya Parlianment API
 ================================================================
 .. image:: https://raw.githubusercontent.com/Charlton-A/mweshimiwa-api/master/mweshimiwa.png
         :alt: sample web interface
@@ -46,6 +46,7 @@ Project structure
 -----------------
 
 .. code-block:: bash
+
     ├── app
     │   ├── Api.php
     │   ├── Connection.php
@@ -79,14 +80,12 @@ Project structure
 
 
 
-
-
 License
 -------
 
 Mweshiwa API is distributed under the `MIT License`_.
 
 .. _MIT License: http://opensource.org/licenses/MIT
-.. _Fat-Free: https://mweshimiwa.herokuapp.com/
-.. _flask: https://fatfreeframework.com/home
+.. _Fat-Free: https://fatfreeframework.com/home
+.. _link: https://mweshimiwa.herokuapp.com/
 .. _w3.css: http://www.w3schools.com/w3css/
