@@ -31,7 +31,7 @@ For  the API
 
    Exmaple to check "Kajiado North"
 
-   mweshimiwa-api.herokuapp.com/respresentative/name?Kajiado+North
+   mweshimiwa-api.herokuapp.com/1/respresentative/name?Kajiado+North
 
    returns:
           {
