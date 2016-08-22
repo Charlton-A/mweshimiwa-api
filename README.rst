@@ -10,8 +10,8 @@ Introduction
 An API built using `Fat-Free`_ Framework.It queries the Kenyan parlianment
 based on constituency name.
 
-It queries Reprentative name,Party of the respresntative and the County based
-on constituency. 
+It queries Representative name,Party of the respresentative and the County based
+on constituency.
 
 Project link is `link`_
 
@@ -31,7 +31,7 @@ For  the API
 
    Exmaple to check "Kajiado North"
 
-   mweshimiwa-api.herokuapp.com/respresntative/name?Kajiado+North
+   mweshimiwa-api.herokuapp.com/respresentative/name?Kajiado+North
 
    returns:
           {

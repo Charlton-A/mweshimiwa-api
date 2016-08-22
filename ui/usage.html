@@ -13,15 +13,14 @@
             <br />
             <span class="w3-text-red"> - Case Insesitive : </span> Kajiado+North <span class="w3-text-light-blue">OR</span>
             KAJIADO+NORTH <span class="w3-text-light-blue">OR Even </span> KaJiAdO+NortH<br />
-            <span class="w3-text-red"> - Spaces : </span>Highly prefered you use <span class="w3-text-light-blue">+</span>
-            to respresent spaces ie. Kajiado+North <span class="w3-text-light-blue">But </span><br />
-            Kajiado North will also work
+            <span class="w3-text-red"> - Spaces : </span>Use  <span class="w3-text-light-blue">+</span>
+            to respresent spaces ie. Kajiado+North
 
         </div>
         <p class="w3-center w3-boder-bottom ">To get the of <span class="w3-text-blue">Respresentative</span> of a Constituency</p>
         <div class="w3-container w3-padding w3-black w3-round">
             <span class="w3-text-red">GET </span>
-            <span class="w3-text-light-blue"> https://mweshimiwa.herokuapp.com/representative/name?</span>Budalangi
+            <span class="w3-text-light-blue"> https://mweshimiwa.herokuapp.com/1/representative/name?</span>Budalangi
             <br/> {
             <br/> "Constituency" : "Budalangi",
             <br/> "Name" : "Ababu Pius Namwamba",
@@ -33,7 +32,7 @@
         <p class="w3-center">To get the <span class="w3-text-blue">County</span> where a Constituency is located</p>
         <div class="w3-container w3-padding w3-black w3-round">
             <span class="w3-text-red">GET </span>
-            <span class="w3-text-light-blue"> https://mweshimiwa.herokuapp.com/county/name?</span>Budalangi
+            <span class="w3-text-light-blue"> https://mweshimiwa.herokuapp.com/1/county/name?</span>Budalangi
             <br /> {
             <br/> "Constituency" : "Budalangi",
             <br/> "County" : "Busia",
@@ -44,7 +43,7 @@
         <p class="w3-center">To get the <span class="w3-text-blue">Party</span> of the representative of a Constituency</p>
         <div class="w3-container w3-padding w3-black w3-round">
             <span class="w3-text-red">GET </span>
-            <span class="w3-text-light-blue"> https://mweshimiwa.herokuapp.com/party/name?</span>Budalangi
+            <span class="w3-text-light-blue"> https://mweshimiwa.herokuapp.com/1/party/name?</span>Budalangi
             <br /> {
             <br/> "Constituency" : "Budalangi",
             <br/> "Party" : "Orange Democratic Movement",
