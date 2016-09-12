@@ -13,7 +13,7 @@ based on constituency name.
 It queries Representative name,Party of the respresentative and the County based
 on constituency.
 
-Project link is `link`_
+Project link on Heroku is `link`_
 
 Requirements
 ------------
@@ -31,7 +31,7 @@ For  the API
 
    Exmaple to check "Kajiado North"
 
-   mweshimiwa-api.herokuapp.com/1/respresentative/name?Kajiado+North
+   mweshimiwa-api.herokuapp.com/v1/respresentative/name?Kajiado+North
 
    returns:
           {
