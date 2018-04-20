@@ -31,15 +31,17 @@ For  the API
 
    Exmaple to check "Kajiado North"
 
-   curl  https://mweshimiwa.herokuapp.com/v1/respresentative/Kajiado+North
+   curl  https://mweshimiwa.herokuapp.com/v1/representative/Kajiado+North
+
 
    returns:
           {
             "Constituency":"Kajiado North",
-            "Name":"Manje Joseph Wathigo",
+            "Name":"Hon. Manje Joseph Wathigo",
             "Status":"Success",
             "Message":"Representative of the constituency found"
           }
+
 
 
   The + sign represents spaces
