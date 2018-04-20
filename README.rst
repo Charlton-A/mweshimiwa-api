@@ -31,7 +31,7 @@ For  the API
 
    Exmaple to check "Kajiado North"
 
-   curl  https://mweshimiwa-api.herokuapp.com/v1/respresentative/Kajiado+North
+   curl  https://mweshimiwa.herokuapp.com/v1/respresentative/Kajiado+North
 
    returns:
           {
