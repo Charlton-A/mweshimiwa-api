@@ -16,9 +16,11 @@ class Api {
   }
 
   function getRepresentative($main){
-    /** Fetchs the representative  of the constiuency passed in the url
+    /**Fetchs the representative  of the constiuency passed in the url
     Queries the data.json file and
-    Returns cleaned value in title case**/
+    Returns cleaned value in title case
+    ***/
+    
 
     $c_name=$main->PARAMS['name'];
     $c_name=self::cleanParameter($c_name);
