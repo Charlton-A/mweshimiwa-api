@@ -1,8 +1,8 @@
 {
     "require": {
-
+        "php": "^7.1.16"
     },
     "require-dev": {
-        "heroku/heroku-buildpack-php": "7.1.0"
+        "heroku/heroku-buildpack-php": "*"
     }
 }

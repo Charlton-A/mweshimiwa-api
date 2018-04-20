@@ -4,22 +4,22 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f1f6640d0e2b34f9c9fdb03328081028",
-    "content-hash": "26fb54265b99b10b8b785a199fbc3ff9",
+    "hash": "f0bc72fdd082809b1f5e6d6de11c2953",
+    "content-hash": "8c0075307dd9c663495a9376b23164cf",
     "packages": [],
     "packages-dev": [
         {
             "name": "heroku/heroku-buildpack-php",
-            "version": "v109",
+            "version": "v134",
             "source": {
                 "type": "git",
                 "url": "https://github.com/heroku/heroku-buildpack-php.git",
-                "reference": "cd2d13992b72d049aa270d4b745aae6329e0c037"
+                "reference": "16dd536d084b2a12528713a1efda113f22c6b378"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/heroku/heroku-buildpack-php/zipball/cd2d13992b72d049aa270d4b745aae6329e0c037",
-                "reference": "cd2d13992b72d049aa270d4b745aae6329e0c037",
+                "url": "https://api.github.com/repos/heroku/heroku-buildpack-php/zipball/16dd536d084b2a12528713a1efda113f22c6b378",
+                "reference": "16dd536d084b2a12528713a1efda113f22c6b378",
                 "shasum": ""
             },
             "bin": [
@@ -50,7 +50,7 @@
                 "nginx",
                 "php"
             ],
-            "time": "2016-07-21 11:26:05"
+            "time": "2018-03-30 20:37:55"
         }
     ],
     "aliases": [],
@@ -58,6 +58,8 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": "^7.1.16"
+    },
     "platform-dev": []
 }
